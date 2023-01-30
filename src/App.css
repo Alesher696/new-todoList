@@ -1,0 +1,28 @@
+.App {
+  display: inline;
+}
+
+
+
+.Todolist{
+  margin: 50px;
+}
+
+.taskDone{
+  text-decoration: line-through;
+}
+
+.task{
+  font-weight: bold;
+}
+
+.btn-activeFilter{
+  color: white;
+  background-color: black;
+  border: 1px solid black;
+  border-radius: 2px;
+
+}
+.input-error{
+  border: 4px solid red;
+}
