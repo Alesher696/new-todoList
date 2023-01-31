@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/git@github.com:Alesher696/new-todoList.git/static/css/main.be7ef3e7.css",
-    "main.js": "/git@github.com:Alesher696/new-todoList.git/static/js/main.5ddef75a.js",
-    "index.html": "/git@github.com:Alesher696/new-todoList.git/index.html",
-    "main.be7ef3e7.css.map": "/git@github.com:Alesher696/new-todoList.git/static/css/main.be7ef3e7.css.map",
-    "main.5ddef75a.js.map": "/git@github.com:Alesher696/new-todoList.git/static/js/main.5ddef75a.js.map"
+    "main.css": "/new-todoList/static/css/main.be7ef3e7.css",
+    "main.js": "/new-todoList/static/js/main.5ddef75a.js",
+    "index.html": "/new-todoList/index.html",
+    "main.be7ef3e7.css.map": "/new-todoList/static/css/main.be7ef3e7.css.map",
+    "main.5ddef75a.js.map": "/new-todoList/static/js/main.5ddef75a.js.map"
   },
   "entrypoints": [
     "static/css/main.be7ef3e7.css",
