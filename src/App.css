@@ -57,6 +57,19 @@
   position: absolute;
 }
 
+.btnRemoveTodo{
+  background-image: url('./remove.png');
+  background-repeat: no-repeat;
+  width: 23px;
+  height: 23px;
+  background-position: center;
+  background-size: 25px 25px;
+  border-radius: 2px;
+  border: 1px solid white;
+  margin-inline: 2px;
+  background-color: white;
+  position: absolute;
+}
 
 .btn-activeFilter{
   color: white;
@@ -80,4 +93,8 @@ font-size: 10px;
 
 .checkbox{
 
+}
+
+.TodolistTitle{
+  margin-bottom: 5px;
 }
